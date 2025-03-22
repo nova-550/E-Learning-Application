@@ -16,192 +16,192 @@ frame1.grid()
 
 Disp = Canvas(frame1, width=160,height=120,bg='white')
 Disp.grid(row=1,column=3)
-img = PhotoImage(file=r'D:\Tech Stuff\Python\E-Learning Application\Images\gp.png')
+img = PhotoImage(file=r'D:\Tech Stuff\Git & GitHub\Git\E-Learning Application\Images\gp.png')
 image = Disp.create_image(85,62,image = img)
 
-imgClear = PhotoImage(file='D:\Tech Stuff\Python\E-Learning Application\Images\gp.png')
+imgClear = PhotoImage(file='D:\Tech Stuff\Git & GitHub\Git\E-Learning Application\Images\gp.png')
 def Clear():
     str1.set('Welcome to Python Programming')
     Disp.create_image(85,62,image = imgClear)
     engine.say('Welcome to Python Programming')
     engine.runAndWait()
 
-imgA = PhotoImage(file='D:\Tech Stuff\Python\E-Learning Application\Images\Apple.png')
+imgA = PhotoImage(file='D:\Tech Stuff\Git & GitHub\Git\E-Learning Application\Images\Apple.png')
 def Alphabet_A():
     str1.set('A is for Apple')
     Disp.create_image(85,62,image=imgA)
     engine.say('A is for Apple')
     engine.runAndWait()
 
-imgB = PhotoImage(file='D:\Tech Stuff\Python\E-Learning Application\Images\Banana.png')
+imgB = PhotoImage(file='D:\Tech Stuff\Git & GitHub\Git\E-Learning Application\Images\Banana.png')
 def Alphabet_B():
     str1.set('B is for Banana')
     Disp.create_image(85,62,image=imgB)
     engine.say('B is for Banana')
     engine.runAndWait()
 
-imgC = PhotoImage(file='D:\Tech Stuff\Python\E-Learning Application\Images\Cocoa.png')
+imgC = PhotoImage(file='D:\Tech Stuff\Git & GitHub\Git\E-Learning Application\Images\Cocoa.png')
 def Alphabet_C():
     str1.set('C is for Cocoa')
     Disp.create_image(85,62,image=imgC)
     engine.say('C is for Cocoa')
     engine.runAndWait()
 
-imgD = PhotoImage(file='D:\Tech Stuff\Python\E-Learning Application\Images\Damson.png')
+imgD = PhotoImage(file='D:\Tech Stuff\Git & GitHub\Git\E-Learning Application\Images\Damson.png')
 def Alphabet_D():
     str1.set('D is for Damson')
     Disp.create_image(85,62,image=imgD)
     engine.say('D is for Damson')
     engine.runAndWait()
 
-imgE = PhotoImage(file='D:\Tech Stuff\Python\E-Learning Application\Images\Elderberry.png')
+imgE = PhotoImage(file='D:\Tech Stuff\Git & GitHub\Git\E-Learning Application\Images\Elderberry.png')
 def Alphabet_E():
     str1.set('E is for Elderberry')
     Disp.create_image(85,62,image=imgE)
     engine.say('E is for Elderberry')
     engine.runAndWait()
 
-imgF = PhotoImage(file='D:\Tech Stuff\Python\E-Learning Application\Images\Fig.png')
+imgF = PhotoImage(file='D:\Tech Stuff\Git & GitHub\Git\E-Learning Application\Images\Fig.png')
 def Alphabet_F():
     str1.set('F is for Fig')
     Disp.create_image(85,62,image=imgF)
     engine.say('F is for Fig')
     engine.runAndWait()
 
-imgG = PhotoImage(file='D:\Tech Stuff\Python\E-Learning Application\Images\Guava.png')
+imgG = PhotoImage(file='D:\Tech Stuff\Git & GitHub\Git\E-Learning Application\Images\Guava.png')
 def Alphabet_G():
     str1.set('G is for Guava')
     Disp.create_image(85,62,image=imgG)
     engine.say('G is for Guava')
     engine.runAndWait()
 
-imgH = PhotoImage(file='D:\Tech Stuff\Python\E-Learning Application\Images\HuckleBerry.png')
+imgH = PhotoImage(file='D:\Tech Stuff\Git & GitHub\Git\E-Learning Application\Images\HuckleBerry.png')
 def Alphabet_H():
     str1.set('H is for HuckleBerry')
     Disp.create_image(85,62,image=imgH)
     engine.say('H is for HuckleBerry')
     engine.runAndWait()
 
-imgI = PhotoImage(file='D:\Tech Stuff\Python\E-Learning Application\Images\Ita palm.png')
+imgI = PhotoImage(file='D:\Tech Stuff\Git & GitHub\Git\E-Learning Application\Images\Ita palm.png')
 def Alphabet_I():
     str1.set('I is for Ita palm')
     Disp.create_image(85,62,image=imgI)
     engine.say('I is for Ita palm')
     engine.runAndWait()
 
-imgJ = PhotoImage(file='D:\Tech Stuff\Python\E-Learning Application\Images\Jujube.png')
+imgJ = PhotoImage(file='D:\Tech Stuff\Git & GitHub\Git\E-Learning Application\Images\Jujube.png')
 def Alphabet_J():
     str1.set('J is for Jujube')
     Disp.create_image(85,62,image=imgJ)
     engine.say('J is for Jujube')
     engine.runAndWait()
 
-imgK = PhotoImage(file='D:\Tech Stuff\Python\E-Learning Application\Images\Kumquat.png')
+imgK = PhotoImage(file='D:\Tech Stuff\Git & GitHub\Git\E-Learning Application\Images\Kumquat.png')
 def Alphabet_K():
     str1.set('K is for Kumquat')
     Disp.create_image(85,62,image=imgK)
     engine.say('K is for Kumquat')
     engine.runAndWait()
 
-imgL = PhotoImage(file='D:\Tech Stuff\Python\E-Learning Application\Images\Lime.png')
+imgL = PhotoImage(file='D:\Tech Stuff\Git & GitHub\Git\E-Learning Application\Images\Lime.png')
 def Alphabet_L():
     str1.set('L is for Lime')
     Disp.create_image(85,62,image=imgL)
     engine.say('L is for Lime')
     engine.runAndWait()
 
-imgM = PhotoImage(file='D:\Tech Stuff\Python\E-Learning Application\Images\Mango.png')
+imgM = PhotoImage(file='D:\Tech Stuff\Git & GitHub\Git\E-Learning Application\Images\Mango.png')
 def Alphabet_M():
     str1.set('M is for Mango')
     Disp.create_image(85,62,image=imgM)
     engine.say('M is for Mango')
     engine.runAndWait()
 
-imgN = PhotoImage(file=r'D:\Tech Stuff\Python\E-Learning Application\Images\Nance.png')
+imgN = PhotoImage(file=r'D:\Tech Stuff\Git & GitHub\Git\E-Learning Application\Images\Nance.png')
 def Alphabet_N():
     str1.set('N is for Nance')
     Disp.create_image(85,62,image=imgN)
     engine.say('N is for Nance')
     engine.runAndWait()
 
-imgO = PhotoImage(file='D:\Tech Stuff\Python\E-Learning Application\Images\Orange.png')
+imgO = PhotoImage(file='D:\Tech Stuff\Git & GitHub\Git\E-Learning Application\Images\Orange.png')
 def Alphabet_O():
     str1.set('O is for Orange')
     Disp.create_image(85,62,image=imgO)
     engine.say('O is for Orange')
     engine.runAndWait()
 
-imgP = PhotoImage(file='D:\Tech Stuff\Python\E-Learning Application\Images\Papaya.png')
+imgP = PhotoImage(file='D:\Tech Stuff\Git & GitHub\Git\E-Learning Application\Images\Papaya.png')
 def Alphabet_P():
     str1.set('P is for Papaya')
     Disp.create_image(85,62,image=imgP)
     engine.say('P is for Papaya')
     engine.runAndWait()
 
-imgQ = PhotoImage(file='D:\Tech Stuff\Python\E-Learning Application\Images\Quince.png')
+imgQ = PhotoImage(file='D:\Tech Stuff\Git & GitHub\Git\E-Learning Application\Images\Quince.png')
 def Alphabet_Q():
     str1.set('Q is for Quince')
     Disp.create_image(85,62,image=imgQ)
     engine.say('Q is for Quince')
     engine.runAndWait()
 
-imgR = PhotoImage(file='D:\Tech Stuff\Python\E-Learning Application\Images\RaspBerry.png')
+imgR = PhotoImage(file='D:\Tech Stuff\Git & GitHub\Git\E-Learning Application\Images\RaspBerry.png')
 def Alphabet_R():
     str1.set('R is for RaspBerry')
     Disp.create_image(85,62,image=imgR)
     engine.say('R is for RaspBerry')
     engine.runAndWait()
 
-imgS = PhotoImage(file='D:\Tech Stuff\Python\E-Learning Application\Images\StrawBerry.png')
+imgS = PhotoImage(file='D:\Tech Stuff\Git & GitHub\Git\E-Learning Application\Images\StrawBerry.png')
 def Alphabet_S():
     str1.set('S is for StrawBerry')
     Disp.create_image(85,62,image=imgS)
     engine.say('S is for StrawBerry')
     engine.runAndWait()
 
-imgT = PhotoImage(file='D:\Tech Stuff\Python\E-Learning Application\Images\Tamarind.png')
+imgT = PhotoImage(file='D:\Tech Stuff\Git & GitHub\Git\E-Learning Application\Images\Tamarind.png')
 def Alphabet_T():
     str1.set('T is for Tamarind')
     Disp.create_image(85,62,image=imgT)
     engine.say('T is for Tamarind')
     engine.runAndWait()
 
-imgU = PhotoImage(file=r'D:\Tech Stuff\Python\E-Learning Application\Images\Ugli.png')
+imgU = PhotoImage(file=r'D:\Tech Stuff\Git & GitHub\Git\E-Learning Application\Images\Ugli.png')
 def Alphabet_U():
     str1.set('U is for Ugli')
     Disp.create_image(85,62,image=imgU)
     engine.say('U is for Ugli')
     engine.runAndWait()
 
-imgV = PhotoImage(file='D:\Tech Stuff\Python\E-Learning Application\Images\Vanilla.png')
+imgV = PhotoImage(file='D:\Tech Stuff\Git & GitHub\Git\E-Learning Application\Images\Vanilla.png')
 def Alphabet_V():
     str1.set('V is for Vanilla')
     Disp.create_image(85,62,image=imgV)
     engine.say('V is for Vanilla')
     engine.runAndWait()
 
-imgW = PhotoImage(file='D:\Tech Stuff\Python\E-Learning Application\Images\Watermelon.png')
+imgW = PhotoImage(file='D:\Tech Stuff\Git & GitHub\Git\E-Learning Application\Images\Watermelon.png')
 def Alphabet_W():
     str1.set('W is for Watermelon')
     Disp.create_image(85,62,image=imgW)
     engine.say('W is for Watermelon')
     engine.runAndWait()
 
-imgX = PhotoImage(file='D:\Tech Stuff\Python\E-Learning Application\Images\Xigua.png')
+imgX = PhotoImage(file='D:\Tech Stuff\Git & GitHub\Git\E-Learning Application\Images\Xigua.png')
 def Alphabet_X():
     str1.set('X is for Xigua')
     Disp.create_image(85,62,image=imgX)
     engine.say('X is for Xigua')
     engine.runAndWait()
 
-imgY = PhotoImage(file='D:\Tech Stuff\Python\E-Learning Application\Images\Yuzu.png')
+imgY = PhotoImage(file='D:\Tech Stuff\Git & GitHub\Git\E-Learning Application\Images\Yuzu.png')
 def Alphabet_Y():
     str1.set('Y is for Yuzu')
     Disp.create_image(85,62,image=imgY)
     engine.say('Y is for Yuzu')
     engine.runAndWait()
 
-imgZ = PhotoImage(file='D:\Tech Stuff\Python\E-Learning Application\Images\Zucchini.png')
+imgZ = PhotoImage(file='D:\Tech Stuff\Git & GitHub\Git\E-Learning Application\Images\Zucchini.png')
 def Alphabet_Z():
     str1.set('Z is for Zucchini')
     Disp.create_image(85,62,image=imgZ)
